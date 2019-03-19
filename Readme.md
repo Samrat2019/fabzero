@@ -1,5 +1,8 @@
 # Documentation
 ## 18.03.2019 Time 14:45 Hrs. Session 1 Pre Fab Training
+
+![training image dated 18 March 2019](img/training18032019,jpg)
+
 Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar.
 ### We have a very friendly mentors with us :
 1. Mr. Francisco 
