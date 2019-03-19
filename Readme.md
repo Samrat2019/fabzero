@@ -1,5 +1,5 @@
 # Documentation
-## 18.03.2019 Time 14:45 Hrs. Session 1
+## 18.03.2019 Time 14:45 Hrs. Session 1 Pre Fab Training
 Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar.
 ### We have a very friendly mentors with us :
 1. Mr. Francisco 
@@ -8,7 +8,6 @@ Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar.
 Today we had a tour to the Fab lab located at 2nd Floor of our office premises.
 During our visit to lab we visited and saw different equipment's available in the lab.
 Equipment's we saw in the Lab are as follows:
-samrat test
 1. **3 Axis CnC Shopbot Machine** with a resolution of 1/10th of 1mm. The CnC machine is of size 96X48. This machine needs lot of attention during operation with minute carelessness it may cause an accident. This machine cause lost of dusts and also noise so we need safety have all safety measures in place while entering into the room.
 2. **Band Saw Machine** is there for simple cutting.
 3. **Scroll Saw Machine** also use for cuttings.
