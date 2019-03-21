@@ -22,5 +22,8 @@ Equipment's we saw in the Lab are as follows:
 9. **Milling Machine** This machine is also known as mini CnC machine. This is used for printing PCB boards, and for high resoulution objects as smaller objects.
 Not able to concerntrate anymore due to headache and cold, with permission from the captain Mr Franc i am going back to hotel for rest.
 ## 21.03.2019 Time 11:15 Hrs. 
-Back to job feeling bit better after the medication. Missed 1.5 day session due to bad health. will be printing my name first by using inkscape application and then will create the vinyl sticker by using Vinyl Cutter.
+
+Back to job feeling bit better after the medication. Missed 1.5 day session due to bad health.
+
+Toady i will be printing my name first by using inkscape application and then will create the vinyl sticker by using Vinyl Cutter.
 Inkscape under File section in the document properties first we have to set area as Custom size let's say 150 mm wide by 50 mm height. Now select a bold font from the font menu and add text let's say my name as " Samrat" in Black&White only. Now save the file in .svg in the repository and export in png format with 600 dpi for vinyl cutter.
