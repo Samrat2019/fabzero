@@ -1,4 +1,5 @@
 ## Roland Vinyl Cutter
+**Roland Vinyl Cutter** is used for cutting and preparing vinyl stickers, also we can use the same machine for drawing purpose with little modification by place a pencil in place of blade. The blade edge is very sharp and we have to fix it as per the thickness of the material so that only the upper sheet gets cut not the base layer. It has x axis and Y axis. The maximum force of the cutter is 85 grams.
 
 To start preparing a a vinyl sticker with **Roland Vinyl Cutter** we need to first create our design in **Inkscape**.
 
