@@ -1,6 +1,5 @@
-#to bad health.
+To start preparing a a vinyl sticker with **Roland Vinyl Cutter** we need to first create our design in **Inkscape**.
 
-Toady i will be printing my name first by using **Inkscape** application and then will create the Vinyl sticker by using **Roland Vinyl Cutter**.
-**Inkscape** under **File** section in the **Document Properties** first we have to set area as Custom size let's say **150 mm wide by 50 mm height**. Now select a bold font from the font menu and add text let's say my name as "**Samrat**" in Black&White only. Now save the file in **.svg** in the repository and export in png format with **600 dpi** for vinyl cutter.
-
+We have been given assignment of printing vinyl sticker of our own names. The size of the sticker should be **150 mm wide by 50 mm height**. In Inkscape under the _File_ section we have to navigate to _Document Properties_ we have to set area as custom with size as "_150 mm wide by 50 mm height_". Now we need to select a **Bold Font** from the font menu and add text let's say my name as "**Samrat**" in Black&White only. 
 ![Vinyl Sticker as Samrat](img/myname.png)
+Now save the file in **.svg** in the repository and export in png format with **600 dpi** for vinyl cutter.
