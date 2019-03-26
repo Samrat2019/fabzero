@@ -1,15 +1,12 @@
 # Documentation
-<<<<<<< HEAD
 
 ## Hi this Samrat 18.03.2019 Time 14:45 Hrs. Session 1 Pre Fab Training
 
 ![training image dated 18 March 2019](img/training18032019.jpg)
 
 Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar.
-=======
 ## Pre Fab Training
 Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar. STPI officiails from PAN India has been nominated for undergoing the said Training. Its a 3 weeks Training program. 
->>>>>>> 3afde38b6e368c0ac218d474c3c377931b85ed08
 ### We have a very friendly mentors with us :
 1. Mr. Francisco 
 2. Mr. Shibu
