@@ -1,15 +1,15 @@
-# Documentation
+# Samrat Chakraborty at Fabzero Programme- STPI Bhubaneswar
 
-## Hi this Samrat 18.03.2019 Time 14:45 Hrs. Session 1 Pre Fab Training
+Welcome to **STPI-Bhubaneswar Fabzero Programme**. The training program is a _3 weeks programme_ where we will be learning about operations of different equipment's available at the Lab and also the safety measures to be adopted while accessing the machines.
 
-![training image dated 18 March 2019](img/training18032019.jpg)
+The inaugural session of three weeks training programme kick started with the inaugural speech from "**Dr. Omkar Rai**", _Director General- STPI_ via Video conferencing where our DG addressed all the participants. Followed by by DG address we had a introduction session where all participants introduced themselves.
 
-Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar.
-## Pre Fab Training
-Today was the firs day of 3 weeks Pre-Fab Training Programs at STPI-Bhubaneswar. STPI officiails from PAN India has been nominated for undergoing the said Training. Its a 3 weeks Training program. 
-### We have a very friendly mentors with us :
+![Inauguration Speech by DG-STPI](img/inaguration.jpg)
+### We were very fortunate that we have a very friendly and Knowledgeable mentors with us :
 1. Mr. Francisco 
 2. Mr. Shibu
+
+
 ![training image dated 18 March 2019](img/training18032019.jpg)
 Today we had a tour to the Fab lab located at 2nd Floor of our office premises.
 During our visit to lab we visited and saw different equipment's available in the lab.
