@@ -1,19 +1,12 @@
 # Samrat Chakraborty at Fabzero Programme- STPI Bhubaneswar
-
-Welcome to **STPI-Bhubaneswar Fabzero Programme**. The training program is a _3 weeks programme_ where we will be learning about operations of different equipment's available at the Lab and also the safety measures to be adopted while accessing the machines.
-
+Welcome to **STPI-Bhubaneswar Fabzero Programme**. The training program is a _3 weeks programme_ where we will be learning about operations of different equipment's available at the Lab and also the safety measures to be adopted while accessing the machines. Myself **Samrat Chakraborty**, Technical Officer posted at **STPI-Patna**. I am a _MCA graduate from SASTRA Universities_.
+![training image dated 18 March 2019](img/training18032019.jpg)
 The inaugural session of three weeks training programme kick started with the inaugural speech from "**Dr. Omkar Rai**", _Director General- STPI_ via Video conferencing where our DG addressed all the participants. Followed by by DG address we had a introduction session where all participants introduced themselves.
-
 ![Inauguration Speech by DG-STPI](img/inaguration.jpg)
 ### We were very fortunate that we have a very friendly and Knowledgeable mentors with us :
 1. Mr. Francisco 
 2. Mr. Shibu
-
-
-![training image dated 18 March 2019](img/training18032019.jpg)
-Today we had a tour to the Fab lab located at 2nd Floor of our office premises.
-During our visit to lab we visited and saw different equipment's available in the lab.
-Equipment's we saw in the Lab are as follows:
+## Equipments at Fablab, STPI Bhubaneswar
 1. **3 Axis CnC Shopbot Machine** with a resolution of 1/10th of 1mm. The CnC machine is of size 96X48. This machine needs lot of attention during operation with minute carelessness it may cause an accident. This machine cause lost of dusts and also noise so we need safety have all safety measures in place while entering into the room.
 2. **Band Saw Machine** is there for simple cutting.
 3. **Scroll Saw Machine** also use for cuttings.
@@ -23,6 +16,8 @@ Equipment's we saw in the Lab are as follows:
 7. **Stratys Color Inkjet 3D Printer** This is the latest 3D technology printer which can print 3D objects in full color.
 8. **Laser Cutter Machine** This machine is again very sophisticated machine used for cutting natural items such as wood, paper, leather. The lenses are very sophisticated and expensive and sometimes it catches fire too if not used properly. This machine creates smokes with some gases while cutting so we have a air filter attached with the machine which has 3 stage filtration with HEPA in middle and Activated Carbon in the top to absorb all the gases. 
 9. **Milling Machine** This machine is also known as mini CnC machine. This is used for printing PCB boards, and for high resoulution objects as smaller objects.
+
+
 ## 19.03.2019 Time 10:15 Hrs.
 Before starting today's training we need to complete few things :
 1. **Install Inkscape**
