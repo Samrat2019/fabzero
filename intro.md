@@ -5,6 +5,6 @@ Welcome to **STPI-Bhubaneswar Fabzero Programme**. The training program is a _3 
 The inaugural session of three weeks training programme kick started with the inaugural speech from "**Dr. Omkar Rai**", _Director General- STPI_ via Video conferencing where our DG addressed all the participants. Followed by by DG address we had a introduction session where all participants introduced themselves.
 
 ![Inauguration Speech by DG-STPI](img/inaguration.jpg)
-### We were very fortunate that we have a very friendly and Knowledgeable mentors with us :
+**We were very fortunate that we have a very friendly and Knowledgeable mentors with us :**
 1. Mr. Francisco Sanchez 
 2. Mr. Sibu Saman
