@@ -77,6 +77,7 @@ Navigate ***Tools --> update PCB from Schematic*** (shortcut Key- F8 key)
 Route tracking, set track **width min. 0.25mm** and **Clearance min. 0.4mm** *(File--> Board Setup--> Net Classes--> clearance & track width).* After routing, do not forget to perform ***"Design rule check'.*** Also, do not miss to copper fill empty zone areas (add fill zones) & to draw PCD edge (select Edge.cut layer and use ***"Add graphic line"*** tool). Line width of edge is set as **0.8 mm**.
 
 ![FIle for PCB](img/pcbsam.png)
+
 **Preparing a *"PCB trace"* & *Edge cut* files in *SVG format***.
 
 First Select all and navigate to **File--> Plot**.
@@ -103,7 +104,8 @@ Open ***'F.cu.SVG'*** and ***'Edgecut.SVG'*** files in **"Inkscape"**, set **DPI
     vi. Process--> calculate (machine path will be created)
     vii. Save the file for sending to Roland SRM20 milling machine.
   ![FIle for PCB](img/milling.jpg)
-  *Repeat the above process also for the Edge cut/ trace file*.
+  
+*Repeat the above process also for the Edge cut/ trace file*.
 
 **Sending the PCB design for milling:-**
 
@@ -125,6 +127,7 @@ vi. Press *'Cut'* button, then select the **.rml trace** file saved earlier usin
 
 ![FIle for PCB](img/circuit.png)
 ![FIle for Milling](img/milling1.jpg)
+
 *Repeat the process for the Edge cut file but do remember to change milling bid to 1/32 inch, and dont forget to set the new Z axis Zero.*
 
 ![FIle for Milling](img/milling2.jpg)
