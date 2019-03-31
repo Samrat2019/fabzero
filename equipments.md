@@ -4,7 +4,7 @@
 
 [**3D printer with Fused Filament Depositor**](sindoh.md) This one the basic 3D printer which uses a PLA filament for creating 3D objects. The technique used in this printer is creating an object by diffusing the filament. This printer is mono-color printer.
 
- [**Milling Machine**]() This machine is also known as mini CnC machine. This is used for printing PCB boards, and for high resoulution objects as smaller objects.
+ [**Milling Machine**](Circuitdesign.md) This machine is also known as mini CnC machine. This is used for printing PCB boards, and for high resoulution objects as smaller objects.
 
  [**3 Axis CnC Shopbot Machine**]() with a resolution of 1/10th of 1mm. The CnC machine is of size 96X48. This machine needs lot of attention during operation with minute carelessness it may cause an accident. This machine cause lost of dusts and also noise so we need safety have all safety measures in place while entering into the room.
  
