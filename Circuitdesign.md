@@ -13,6 +13,7 @@ For creating a Circuit board we should a have PCB Board which need to be printed
 
 The first step is to create a schematic design of the circuit for fabrication using a pcb design software known as **KICAD**,
 ![FIle KiCad](img/schema.jpg)
+
 **1. Create a Schematic Diagram**
 
 Open *New project* in **Kicad**.
@@ -55,6 +56,7 @@ Use ***"Generate Netlist"*** icon (choose the  default values).
 
 Use ***"Assign PCB Footprints to schematic symbols"*** icon. 
 ![FIle for footprint in KiCad](img/footprint.jpg)
+
 **7. Resolving Load Errors**
 
 Majority of Load Errors are resolved when we are connected to the Internet.
@@ -69,6 +71,7 @@ After resolving all the errors now its time to generate a ***PCB Layout.***
 
 Navigate ***Tools --> update PCB from Schematic*** (shortcut Key- F8 key) 
 ![FIle for PCB in KiCad](img/pcbsam.jpg)
+
 ***Settings***
 
 Route tracking, set track **width min. 0.25mm** and **Clearance min. 0.4mm** *(File--> Board Setup--> Net Classes--> clearance & track width).* After routing, do not forget to perform ***"Design rule check'.*** Also, do not miss to copper fill empty zone areas (add fill zones) & to draw PCD edge (select Edge.cut layer and use ***"Add graphic line"*** tool). Line width of edge is set as **0.8 mm**.
